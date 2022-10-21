@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\bin\Debug\net5.0\12.10.2021.exe
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\bin\Debug\net5.0\12.10.2021.deps.json
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\bin\Debug\net5.0\12.10.2021.runtimeconfig.json
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\bin\Debug\net5.0\12.10.2021.runtimeconfig.dev.json
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\bin\Debug\net5.0\12.10.2021.dll
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\bin\Debug\net5.0\ref\12.10.2021.dll
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\bin\Debug\net5.0\12.10.2021.pdb
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\obj\Debug\net5.0\12.10.2021.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\obj\Debug\net5.0\12.10.2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\obj\Debug\net5.0\12.10.2021.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\obj\Debug\net5.0\12.10.2021.AssemblyInfo.cs
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\obj\Debug\net5.0\12.10.2021.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\obj\Debug\net5.0\12.10.2021.dll
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\obj\Debug\net5.0\ref\12.10.2021.dll
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\obj\Debug\net5.0\12.10.2021.pdb
+C:\Users\Student\Documents\martiparti\12BUPR1\12.10.2021\12.10.2021\obj\Debug\net5.0\12.10.2021.genruntimeconfig.cache
